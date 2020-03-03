@@ -6,3 +6,7 @@ The following solution is for problems in [curated interview question](https://w
 | Series number | Content |
 | :--| :--|
 | 206 | Reverse Linked List |
+| 1 | Two Sum |
+| 121 | Buy and Sell Stock |
+| 217 | Contains Duplicate | 
+
