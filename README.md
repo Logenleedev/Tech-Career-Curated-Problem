@@ -9,4 +9,8 @@ The following solution is for problems in [curated interview question](https://w
 | 1 | Two Sum |
 | 121 | Buy and Sell Stock |
 | 217 | Contains Duplicate | 
+| 125 | Valid Palindrome |
+| 191 | Number of 1 Bits |
+| 238 | Product of Array Except Self |
+| 20  | Valid Parentheses | 
 
