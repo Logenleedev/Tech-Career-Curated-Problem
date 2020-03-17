@@ -27,6 +27,7 @@ class Solution:
             return 0
         
     def bestmaxSubarray(self, nums):
+        # O(n)
         if len(nums)!= 0:
             result = [nums[0]]
             for i in range(1, len(nums)):
