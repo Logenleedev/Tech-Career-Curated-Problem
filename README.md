@@ -13,4 +13,5 @@ The following solution is for problems in [curated interview question](https://w
 | 191 | Number of 1 Bits |
 | 238 | Product of Array Except Self |
 | 20  | Valid Parentheses | 
+| 53  | Maximum Subarray |
 
