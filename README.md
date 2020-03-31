@@ -16,5 +16,5 @@ The following solution is for problems in [curated interview question](https://w
 | 53  | Maximum Subarray |
 | 70 | Climbing Stairs |
 | 49 | Group Anagrams |
-| 1 | Maximum Subarray |
+| 1 | Contain the most water |
 
